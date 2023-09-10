@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Questrial&display=swap");
+
+body {
+  background-image: url(img/black-background.webp);
+  font-family: "Questrial", sans-serif;
+}
+
+
+
+
+/* .content {
+  max-width: 1200px;
+  margin: 0 auto;
+}  */
+.justdo{
+  color: transparent;
+  -webkit-text-stroke: 1px #fff;
+}
+/* position: absolute;
+top: 0;
+tems: center;
+display: inline-flex;
+text-align: center;
+justify-content: center;
+left: 30%;
+left: 32%;
+} */
+
+height: 992px;
+    top: -305px;
+    left: -10px
+
+
+    display: block;
+    rotate: 270deg;
+    position: absolute;
+    left: -109px;
+    bottom: -60px;
+
+
+    position: absolute;
+    display: inline-grid;
+    left: 87rem;
+    top: 6rem;
+}
